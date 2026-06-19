@@ -23,5 +23,3 @@ practical projects, experiments, and research implementations.
 - TensorFlow
 - Matplotlib
 - Jupyter Notebook
-
-
